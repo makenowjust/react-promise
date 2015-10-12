@@ -1,0 +1,22 @@
+{
+  "name": "react-promise",
+  "description": "Promise as React Component",
+  "version": "1.0.0",
+  "author": "TSUYUSATO Kitsune <make.just.on@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/makenowjust/react-promise/issues"
+  },
+  "homepage": "https://github.com/makenowjust/react-promise#readme",
+  "keywords": [
+    "async",
+    "component",
+    "promise",
+    "react"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makenowjust/react-promise.git"
+  }
+}
